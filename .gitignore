@@ -1,8 +1,20 @@
-.Rproj.user/
-.Rhistory
-.RData
-.Ruserdata
 *_cache/
-_site/
 .DS_Store
 .vscode/
+# RStudio
+.Rproj.user/
+*.Rproj
+.RData
+.Rhistory
+.Ruserdata
+# Build
+_site/
+*.pdf
+*.png
+# OS
+.DS_Store
+Thumbs.db
+# Misc
+file_list.txt
+cut from website.txt
+333333.R
