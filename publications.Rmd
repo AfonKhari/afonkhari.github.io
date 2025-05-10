@@ -17,6 +17,8 @@ output: distill::distill_article
 - Khari, M. (2023, March). *ChatGPT: The Double-Edged Sword of AI Language Models*. Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2023, January). *Fostering the Prosocial Neural Network Through Gratitude*. Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (2022–2021). Numerous essays and co-authored pieces on **neuroscience**, **storytelling**, **emotional autonomy**, and **language learning**.  
+
+
   *See <a href="cv.pdf" target="_blank">full CV (PDF)</a> for complete bibliography.*
 
 ---
@@ -31,7 +33,8 @@ output: distill::distill_article
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJL85tWtlRs?start=1448" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9wiU38c6wYE&list=WL&index=75" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiU38c6wYE?list=WL&index=75" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 
