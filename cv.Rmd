@@ -4,7 +4,8 @@ description: "Academic and professional background of Afon Khari"
 output: distill::distill_article
 ---
 
-<a href="cv.pdf" target="_blank">Download **full CV (PDF)**</a>
+<a href="static/cv.pdf" target="_blank"><strong>Download full CV (PDF)</strong></a>
+
 
 
 ## 📍 Contact Information

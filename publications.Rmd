@@ -19,7 +19,7 @@ output: distill::distill_article
 - Khari, M. (2022–2021). Numerous essays and co-authored pieces on **neuroscience**, **storytelling**, **emotional autonomy**, and **language learning**.  
 
 
-  *See <a href="cv.pdf" target="_blank">full CV (PDF)</a> for complete bibliography.*
+  **See <a href="static/cv.pdf" target="_blank">full CV (PDF)</a> for complete bibliography.**
 
 ---
 
