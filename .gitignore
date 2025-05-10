@@ -9,7 +9,7 @@
 .Ruserdata
 # Build
 _site/
-*.pdf
+
 *.png
 # OS
 .DS_Store
