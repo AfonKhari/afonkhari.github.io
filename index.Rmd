@@ -1,6 +1,6 @@
 ---
 title: "Afon Khari"
-description: "Welcome to my personal website!"
+description: "Curious About Cognition | Bridging Philosophy and Neuroscience"
 output: distill::distill_article
 ---
 
