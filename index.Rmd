@@ -1,6 +1,6 @@
 ---
 title: "Afon Khari"
-description: "Curious About Cognition | Bridging Philosophy and Neuroscience"
+description: "Brains in Context | Neuroscience Meets Complexity"
 output: distill::distill_article
 ---
 
