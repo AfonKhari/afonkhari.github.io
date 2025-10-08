@@ -3,7 +3,8 @@ title: "Afon Khari"
 description: |
   Researcher in Brain and Cognitive Sciences
 site: distill::distill_website
-output_dir: "docs"
+base_url: https://afonkhari.github.io/
+output_dir: "."
 
 navbar:
   right:
