@@ -8,7 +8,10 @@
 .Rhistory
 .Ruserdata
 # Build
+docs/
+doc/
 _site/
+
 
 *.png
 # OS
