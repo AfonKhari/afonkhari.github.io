@@ -7,7 +7,7 @@ output: distill::distill_article
 ### Selected Articles and Essays
 
 
-- Khari, M. (in press). *Beyond the algorithm: educational justice for plurilingual students in AI-assisted classrooms*. In *Language education and human rights in democratic educational settings* 
+- Khari, M. (2026). **Beyond the Algorithm: Educational Justice for Plurilingual Students in AI-Assisted Classrooms**. In T. Rousoulioti, C. Pitsou, A. Saglam, & K. Finch (Eds.), **Language Education and Human Rights in Democratic Educational Settings** (pp. 405-444). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3373-2670-2.ch015
 - Khari, M. (2025, October). *Clickbait Neuroscience: Lessons from “Your Brain on ChatGPT”*. Mind Brain Ed Think Tank+ of JALT.
 - Khari, M. (forthcoming). *Simulating Strife: Computational Models of Human Conflict*. ABC Journal of Amsterdam Brain and Cognition.
 - Khari, M. and Daley, J. (2025, May). *The Four Pillars of Learning: A Teacher’s Guide to Cognitive Success* Mind Brain Ed Think Tank+ of JALT.
