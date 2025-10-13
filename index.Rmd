@@ -8,11 +8,12 @@ output: distill::distill_article
   <img src="img/afon.jpg" alt="Afon Khari" style="width:200px; border-radius: 50%; margin-bottom: 20px;">
 </div>
 
-Hi, I'm Afon (Mohammad) Khari, a researcher with a background in **Brain and Cognitive Sciences**, **Philosophy**, and **Language**. 
+Hi, I'm Afon (Mohammad) Khari, a cognitive scientist with a background in **Brain and Cognitive Sciences**, **Philosophy**, and **Language Studies**. 
 
 My interdisciplinary academic path has taken me from humanities to the frontiers of cognitive neuroscience and data modeling.
 
-I’m currently a student at the University of Amsterdam and have done research projects at Music Cognition Group, Institute for Logic, Language, and Computation (ILLC) and Donders Institute and Radboud University Medical Center, Developmental Neuroscience (Lifespan Cognitive Dynamics lab).  
-My research bridges analytical modeling and experiential learning, touching on everything from attention and perception to AI and creativity in education.
+I recently graduated from the **University of Amsterdam** with an MSc in **Brain and Cognitive Sciences**, where I conducted research at the **Music Cognition Group**, the Institute for Logic, Language and Computation (**ILLC**), and the **Donders Institute for Brain, Cognition and Behavior**.
+
+My work explores how brains adapt to complex environments, bridging analytical modeling and human experience to study **attention**, **perception**, and **learning** in dynamic, real-world contexts. I’m especially interested in how insights from **neuroscience** and **computational modeling** can inform **education**, **AI**, and **cognition**.
 
 Feel free to explore my [CV](cv.html), check out my [research](research.html), or browse recent [publications](publications.html).
